@@ -29,7 +29,7 @@ public class calculator {
             switch (operation) {
                 case 1:
                     //Todo addition //// this is done Wai Moe
-                    //result = number1 + number2;
+                    result = number1 + number2;
                     break;
 
                 case 2:
