@@ -28,8 +28,8 @@ public class calculator {
             // Switch case for the selected operation
             switch (operation) {
                 case 1:
-                    //Todo addition
-                    //code here
+                    //Todo addition //// this is done Wai Moe
+                    //result = number1 + number2;
                     break;
 
                 case 2:
