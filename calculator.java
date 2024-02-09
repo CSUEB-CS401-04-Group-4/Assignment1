@@ -44,7 +44,10 @@ public class calculator {
 
                 case 4:
                     //Todo division
-                    //code here
+                    if (number2 != 0)
+                        result = (double) number1 / number2;
+                    else
+                        System.out.println("Cannot divide numbers by zero!");
                     break;
 
                 default:
